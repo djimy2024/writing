@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Interactive quiz on English writing techniques and reading strategies.">
+    <meta name="author" content="Your Name">
+    <title>English Writing Quiz</title>
+    <style>
+        body {
+          font-family: Arial, sans-serif;
+          line-height: 1.6;
+          margin: 20px;
+          background-color: #f9f9f9;
+          color: #333;
+        }
+    
+        h1, h5{
+          color: #2c3e50;
+          text-align: center;
+        }
+    
+        h2 {
+          color: #34495e;
+        }
+    
+        form {
+          background: #ffffff;
+          padding: 15px;
+          margin-bottom: 20px;
+          border: 1px solid #ccc;
+          border-radius: 5px;
+        }
+    
+        button {
+          margin-top: 10px;
+          background-color: #3498db;
+          color: white;
+          padding: 8px 12px;
+          border: none;
+          border-radius: 3px;
+          cursor: pointer;
+        }
+    
+        button:hover {
+          background-color: #2980b9;
+        }
+      </style>
+</head>
+<body>
+    <h1>English Writing Quiz</h1>
+  <h5>Test your knowledge on writing structure, reading strategies, and rhetorical techniques. Select the best answer and click "Submit".</h5>
+
+  <div id="quizContainer"></div>
+
+  <script>
+    async function loadQuestions() {
+      const response = await fetch('data/exo.json');
+      const questions = await response.json();
+
+      const container = document.getElementById('quizContainer');
+
+      questions.forEach(q => {
+        const form = document.createElement('form');
+        form.id = `quizForm${q.number}`;
+
+        const questionHTML = `
+          <h2>Question ${q.number}</h2>
+          <p>${q.question}</p>
+          <input type="radio" name="q${q.number}" value="wrong1"> ${q.options.wrong1}<br>
+          <input type="radio" name="q${q.number}" value="wrong2"> ${q.options.wrong2}<br>
+          <input type="radio" name="q${q.number}" value="correct"> ${q.options.correct}<br>
+          <input type="radio" name="q${q.number}" value="wrong3"> ${q.options.wrong3}<br><br>
+          <button type="button" onclick="checkAnswer(${q.number})">Submit</button>
+        `;
+
+        form.innerHTML = questionHTML;
+        container.appendChild(form);
+      });
+    }
+
+    function checkAnswer(questionNumber) {
+      const selected = document.querySelector(`input[name="q${questionNumber}"]:checked`);
+      if (selected) {
+        if (selected.value === "correct") {
+          alert("Correct!");
+        } else {
+          alert("Wrong answer.");
+        }
+      } else {
+        alert("Please select an answer.");
+      }
+    }
+
+    loadQuestions();
+  </script>
+</body>
+</html>

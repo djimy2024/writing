@@ -1,0 +1,295 @@
+[
+    {
+      "number": 1,
+      "question": "What is the benefit of using simple and direct language in writing?",
+      "options": {
+        "wrong1": "To confuse the reader",
+        "wrong2": "To make the writing more complex",
+        "correct": "To enhance clarity and understanding",
+        "wrong3": "To obscure ideas"
+      }
+    },
+    {
+      "number": 2,
+      "question": "What is the role of a conclusion in a paragraph?",
+      "options": {
+        "wrong1": "To introduce the main idea",
+        "wrong2": "To contradict the main idea",
+        "correct": "To provide closure or set up the next idea",
+        "wrong3": "To confuse the reader"
+      }
+    },
+    {
+      "number": 3,
+      "question": "What is the main goal of reflective writing?",
+      "options": {
+        "wrong1": "To entertain the reader",
+        "wrong2": "To summarize a text",
+        "correct": "To express the impact of an experience on the author’s life",
+        "wrong3": "To persuade the reader"
+      }
+    },
+{
+      "number": 4,
+      "question": "What is reflective writing?",
+      "options": {
+        "wrong1": "The technique of writing persuasive essays",
+        "wrong2": "The act of summarizing a text",
+        "correct": "The practice of an author writing about an experience and its impact on their life",
+        "wrong3": "The process of writing a fictional story"
+      }
+    },
+{
+      "number": 5,
+      "question": "How does reflective writing differ from argumentative writing?",
+      "options": {
+        "wrong1": "Reflective writing is always persuasive, while argumentative writing is informative",
+        "wrong2": "Reflective writing does not include evidence, while argumentative writing does",
+        "correct": "Reflective writing is more musing and exploring, while argumentative writing is assertive",
+        "wrong3": "Reflective writing is focused on facts, while argumentative writing is based on opinions"
+      }
+    },
+{
+      "number": 6,
+      "question": "How does Elder Richard G. Scott emphasize the Lord’s role in personal growth and development?",
+      "options": {
+        "wrong1": "Personal growth is solely your responsibility",
+        "wrong2": "Personal development should be avoided",
+        "correct": "The Lord is intent on your personal growth and development",
+        "wrong3": "Personal growth is not important"
+      }
+    },
+{
+      "number": 7,
+      "question": "What is the purpose of the third area in reflective writing, according to the reading?",
+      "options": {
+        "wrong1": "To summarize the reflection",
+        "wrong2": "To reflect on the process",
+        "correct": "To plan the steps needed to reach a goal",
+        "wrong3": "To describe the writing events"
+      }
+    },
+{
+      "number": 8,
+      "question": "What is the purpose of the second area in reflective writing?",
+      "options": {
+        "wrong1": "Writing the conclusion",
+        "wrong2": "Taking action and planning steps",
+        "correct": "Reflection on the process and what was learned",
+        "wrong3": "Exploration of writing events"
+      }
+    },
+{
+      "number": 9,
+      "question": "How does reflective writing format differ from traditional essay formats?",
+      "options": {
+        "wrong1": "Reflective writing has no structure, unlike traditional essays",
+        "wrong2": "Reflective writing is longer than traditional essays",
+        "correct": "Reflective writing conveys the main point indirectly, unlike traditional essays with explicit thesis statements",
+        "wrong3": "Reflective writing does not include evidence"
+      }
+    },
+{
+      "number": 10,
+      "question": "How does the structure of reflective writing differ from traditional essays?",
+      "options": {
+        "wrong1": "Reflective writing has no structure, unlike traditional essays",
+        "wrong2": "Reflective writing is shorter than traditional essays",
+        "correct": "Reflective writing often presents the main point at the end, unlike traditional essays with thesis statements at the beginning",
+        "wrong3": "Reflective writing does not include evidence"
+      }
+    },
+{
+      "number": 11,
+      "question": "Why is revision important in the writing process?",
+      "options": {
+        "wrong1": "To skip the drafting stage",
+        "wrong2": "To make the writing process longer",
+        "correct": "To challenge one’s own ideas and improve writing",
+        "wrong3": "To avoid the editing stage"
+      }
+    },
+{
+      "number": 12,
+      "question": "What do writers do to adapt their tone to an academic style of writing?",
+      "options": {
+        "wrong1": "Use cliche's",
+        "wrong2": "Use overly general words",
+        "correct": "Use a formal tone",
+        "wrong3": "Use contemporary terminology"
+      }
+    },
+{
+      "number": 13,
+      "question": "Which term refers to the way an author constructs their sentences, chooses their words, and uses their tone?",
+      "options": {
+        "wrong1": "Revision",
+        "wrong2": "Structure",
+        "correct": "Style",
+        "wrong3": "Clarity"
+      }
+    },
+{
+      "number": 14,
+      "question": "Why is audience important in the writing process?",
+      "options": {
+        "wrong1": "To make the writing process longer ",
+        "wrong2": "To challenge one’s own ideas and improve writing",
+        "correct": "To ensure the writing is clear and relevant to the intended readers",
+        "wrong3": "To skip the drafting stage"
+      }
+    },
+{
+      "number": 15,
+      "question": "Which term refers to the step of the writing process in which you focus on your ideas and organization?",
+      "options": {
+        "wrong1": "Drafting",
+        "wrong2": "Proofreading",
+        "correct": "Revision",
+        "wrong3": "Editing"
+      }
+    },
+{
+      "number": 16,
+      "question": "Which term refers to the way an author orders and arranges the paper to create an overall meaning?",
+      "options": {
+        "wrong1": "Revision",
+        "wrong2": "Clarity",
+        "correct": "Structure",
+        "wrong3": "Style"
+      }
+    },
+{
+      "number": 17,
+      "question": "What is the main focus of revising for coherence in the writing process?",
+      "options": {
+        "wrong1": "To ensure proper grammar usage",
+        "wrong2": "To correct spelling",
+        "correct": "To ensure all ideas flow logically and smoothly",
+        "wrong3": "To check for surface errors"
+      }
+    },
+{
+      "number": 18,
+      "question": "Which term refers to the process of identifying and correcting errors in spelling, punctuation, and grammar?",
+      "options": {
+        "wrong1": "Drafting",
+        "wrong2": "Revision",
+        "correct": "Proofreading",
+        "wrong3": "Editing"
+      }
+    },
+{
+      "number": 19,
+      "question": "Which stage of the revision process requires looking at each paragraph closely and revising as needed? ",
+      "options": {
+        "wrong1": "Revising Stage 3: Editing Up Close",
+        "wrong2": "Revising for Style",
+        "correct": "Revising Stage 2: Mid-View",
+        "wrong3": "Revising Stage 1: Seeing the Big Picture"
+      }
+    },
+
+{
+      "number": 20,
+      "question": "What is the main difference between drafting and revising in the writing process?",
+      "options": {
+        "wrong1": "Drafting is the final stage, revising is the initial stage",
+        "wrong2": "Drafting focuses on grammar, revising focuses on ideas",
+        "correct": "Drafting is getting ideas on paper, revising is fine-tuning",
+        "wrong3": "Drafting is about clarity, revising is about structure"
+      }
+    },
+{
+      "number": 21,
+      "question": "What is the step of the writing process in which you focus on your ideas and organization and rearrange or fine-tune your draft?",
+      "options": {
+        "wrong1": "Drafting",
+        "wrong2": "Editing",
+        "correct": "Revision",
+        "wrong3": "Proofreading"
+      }
+    },
+{
+      "number": 22,
+      "question": "What is the main focus of the editing stage in the writing process?",
+      "options": {
+        "wrong1": "Structure and style",
+        "wrong2": "Ideas and organization",
+        "correct": "Grammar and readability",
+        "wrong3": "Clarity and precision"
+      }
+    },
+{
+      "number": 23,
+      "question": "What is the purpose of proofreading in the writing process?",
+      "options": {
+        "wrong1": "To avoid the drafting stage",
+        "wrong2": "To make the writing process longer",
+        "correct": "To help the writing approach precision in their writing",
+        "wrong3": "To skip the editing stage"
+      }
+    },
+{
+      "number": 24,
+      "question": "What is the main focus of revising for clarity in the writing process?",
+      "options": {
+        "wrong1": "To check for spelling errors",
+        "wrong2": "To ensure proper grammar usage",
+        "correct": "To be clear and concise to the audience",
+        "wrong3": "To focus on sentence fluency"
+      }
+    },
+{
+      "number": 25,
+      "question": "What is the benefit of using library databases for research?",
+      "options": {
+        "wrong1": "They are not accessible from home or libraries",
+        "wrong2": "They provide unreliable information",
+        "correct": "They help find credible research",
+        "wrong3": "They are not connected to the results of the search"
+      }
+    },
+{
+      "number": 26,
+      "question": "When should direct quotations be used in a research paper?",
+      "options": {
+        "wrong1": "Always, to make the paper longer",
+        "wrong2": "To avoid summarizing or paraphrasing",
+        "correct": "Sparingly and with purpose, when the author’s words are vivid or memorable",
+        "wrong3": "To confuse readers"
+      }
+    },
+{
+      "number": 27,
+      "question": "Why is it important to use secondary sources that are closely linked to primary research?",
+      "options": {
+        "wrong1": "To avoid using secondary sources",
+        "wrong2": "To make the paper longer",
+        "correct": "To add more value to the paper",
+        "wrong3": "To confuse readers"
+      }
+    },
+{
+      "number": 28,
+      "question": "What is the purpose of a research question?",
+      "options": {
+        "wrong1": "To avoid using sources",
+        "wrong2": "To conduct interviews with experts",
+        "correct": "To guide the research process",
+        "wrong3": "To summarize the main points of the paper"
+      }
+    },
+{
+      "number": 29,
+      "question": "Which of the following is an example of ethical use of sources?",
+      "options": {
+        "wrong1": "Ignoring the sources you consulted",
+        "wrong2": "Using direct quotations without attribution",
+        "correct": "Citing the sources you used",
+        "wrong3": "Plagiarizing someone else’s work"
+      }
+    }
+    
+  ]
+  
